@@ -4,16 +4,7 @@ Sou iniciante na programação e busco entender mais sobre como esses métodos d
 - ❤️ Disponibilizarei abaixo links dos meus principais repositórios, já que são o meu principal foco no momento, sempre irei tentar colocar mais dos projetos que realizo com a ajuda de meus tutores da faculdade, além de alguns que realizo por conta própria e pelo BeeCrowd.
 
 
-  <div id="badges">
-  <a href="www.linkedin.com/in/vinicius-verdiano-5b404b1a3">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="vinivrcarvalho23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="11975472501">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+   [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-verdiano-5b404b1a3utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 
  
