@@ -22,4 +22,4 @@ Sou iniciante na programação e busco entender mais sobre como esses métodos d
 - 😀 https://github.com/vinivx/java
   
 [![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinivx)](https://github.com/vinivx/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinivx)](https://github.com/anuraghazra/github-readme-stats)
+
