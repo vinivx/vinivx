@@ -11,7 +11,7 @@ Sou iniciante na programação e busco entender mais sobre como esses métodos d
  
 - 😀 https://github.com/vinivx/sql
 - 🤔 https://github.com/vinivx/python
-- 😀 https://github.com/vinivx/java
+- 😜 https://github.com/vinivx/java
   
 [![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinivx)](https://github.com/vinivx/github-readme-stats)
 
