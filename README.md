@@ -14,5 +14,5 @@ Sou iniciante na programação e busco entender mais sobre como esses métodos d
 
   
 ![vinivx's Stats](https://github-readme-stats.vercel.app/api?username=vinivx&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![vinivx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinivx&theme=dark&hide_border=true)
+
 
